@@ -1,4 +1,4 @@
-# Week Starting 17th September
+# Week Starting 1st October
 
 - [To-Do This Week](#to-do-this-week)
 - [Four Rules of Simple Design](#four-rules-of-simple-design)
