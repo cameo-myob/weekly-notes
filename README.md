@@ -7,3 +7,5 @@
 - [1st - 7th October](/1-7oct.md)
 - [8th - 14th October](/8-14oct.md)
 - [15th - 21st October](/15-21oct.md)
+- [22nd - 28th October](/22-28oct.md)
+- [29th October - 4th November](/29oct-4nov.md)
